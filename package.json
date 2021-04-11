@@ -9,7 +9,7 @@
     "serve": "docz serve"
   },
   "dependencies": {
-    "easy-crooked": "^1.4.0",
+    "easy-crooked": "latest",
     "docz": "latest",
     "prop-types": "^15.7.2",
     "react": "^17.0.0",
