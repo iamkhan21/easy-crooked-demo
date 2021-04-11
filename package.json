@@ -9,10 +9,10 @@
     "serve": "docz serve"
   },
   "dependencies": {
-    "easy-crooked": "^1.4.0",
+    "easy-crooked": "1.4.0",
     "docz": "latest",
-    "prop-types": "^15.7.2",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0"
+    "prop-types": "15.7.2",
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
   }
 }
